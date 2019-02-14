@@ -1,5 +1,8 @@
 # Auto detect text files and perform LF normalization
 # * text=auto
 Github/Smdm_flask_final/templates/* linguist-vendored
+*.html linguist-vendored=false
+*.py linguist-language=Python
+*.ipynb linguist-language=Python
 
 
