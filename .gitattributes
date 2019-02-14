@@ -3,5 +3,5 @@
 Github/Smdm_flask_final/templates/* linguist-vendored
 *.py linguist-language=Python
 *.ipynb linguist-language=Python
-
+*.html linguist-vendored
 
